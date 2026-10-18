@@ -1,0 +1,872 @@
+[
+  {
+    "name": "Abeyaantrix",
+    "host_institution": "Jorhat Institute of Science & Technology",
+    "state": "Assam",
+    "location": "Jorhat",
+    "festival_type": "Technical",
+    "first_held": 2011,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Techxetra",
+    "host_institution": "Tezpur University",
+    "state": "Assam",
+    "location": "Tezpur",
+    "festival_type": "Technical",
+    "first_held": 2008,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Moksha",
+    "host_institution": "Netaji Subhas University of Technology",
+    "state": "Delhi",
+    "location": "Dwarka",
+    "festival_type": "Cultural",
+    "first_held": 2003,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Zest",
+    "host_institution": "Lingaya's University",
+    "state": "Delhi",
+    "location": "Faridabad",
+    "festival_type": "Cultural",
+    "first_held": 1998,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Engifest",
+    "host_institution": "Delhi Technological University",
+    "state": "Delhi",
+    "location": "New Delhi",
+    "festival_type": "Cultural",
+    "first_held": 1974,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Avalanche UCMS",
+    "host_institution": "University College of Medical Sciences",
+    "state": "Delhi",
+    "location": "New Delhi",
+    "festival_type": "Cultural",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Retopia",
+    "host_institution": "Teri University",
+    "state": "Delhi",
+    "location": "Vasant Kunj",
+    "festival_type": "Technical",
+    "first_held": 2010,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Quark",
+    "host_institution": "BITS Pilani, Goa Campus",
+    "state": "Goa",
+    "location": "Sancoale",
+    "festival_type": "Technical",
+    "first_held": 2006,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Waves",
+    "host_institution": "BITS Pilani, Goa Campus",
+    "state": "Goa",
+    "location": "Sancoale",
+    "festival_type": "Cultural",
+    "first_held": 2006,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Sparsh",
+    "host_institution": "Sardar Vallabhbhai National Institute of Technology",
+    "state": "Gujarat",
+    "location": "Surat",
+    "festival_type": "Cultural",
+    "first_held": 1993,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Paramarsh",
+    "host_institution": "Maharaja Sayajirao University of Baroda",
+    "state": "Gujarat",
+    "location": "Vadodara",
+    "festival_type": "Cultural",
+    "first_held": 2001,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Unmaad",
+    "host_institution": "Indian Institute of Management Bangalore",
+    "state": "Karnataka",
+    "location": "Bengaluru",
+    "festival_type": "Cultural",
+    "first_held": 1999,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Strawberry Fields",
+    "host_institution": "National Law School of India University",
+    "state": "Karnataka",
+    "location": "Bengaluru",
+    "festival_type": "Music",
+    "first_held": 1997,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Jayciana",
+    "host_institution": "JSS Science and Technology University",
+    "state": "Karnataka",
+    "location": "Mysore",
+    "festival_type": "Cultural",
+    "first_held": 1977,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "saMMsCRIthi",
+    "host_institution": "Mysore Medical College & Research Institute",
+    "state": "Karnataka",
+    "location": "Mysore",
+    "festival_type": "Cultural",
+    "first_held": 2000,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Mithibai Kshitij",
+    "host_institution": "Mithibai College",
+    "state": "Maharashtra",
+    "location": "Mumbai",
+    "festival_type": "Cultural",
+    "first_held": 2007,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Cutting Chai",
+    "host_institution": "R. D. National College",
+    "state": "Maharashtra",
+    "location": "Mumbai",
+    "festival_type": "Cultural, Media",
+    "first_held": 2007,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Malhar",
+    "host_institution": "St. Xavier's College, Mumbai",
+    "state": "Maharashtra",
+    "location": "Mumbai",
+    "festival_type": "Cultural",
+    "first_held": 1979,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Aarohi",
+    "host_institution": "Visvesvaraya National Institute Of Technology, Nagpur",
+    "state": "Maharashtra",
+    "location": "Nagpur",
+    "festival_type": "Cultural",
+    "first_held": 1988,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Karavaan",
+    "host_institution": "Indian Institute of Science Education and Research, Pune",
+    "state": "Maharashtra",
+    "location": "Pune",
+    "festival_type": "Cultural",
+    "first_held": 2008,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Sympulse",
+    "host_institution": "Symbiosis International University",
+    "state": "Maharashtra",
+    "location": "Pune",
+    "festival_type": "Cultural",
+    "first_held": 2010,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Spandan",
+    "host_institution": "Jawaharlal Institute of Postgraduate Medical Education & Research",
+    "state": "Puducherry",
+    "location": "Pondicherry",
+    "festival_type": "Cultural, Literary, Sports",
+    "first_held": 1980,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "BOSM(BITS Open Sports Meet)",
+    "host_institution": "BITS Pilani, Pilani Campus",
+    "state": "Rajasthan",
+    "location": "Pilani",
+    "festival_type": "Sports",
+    "first_held": 1986,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Oasis",
+    "host_institution": "BITS Pilani, Pilani Campus",
+    "state": "Rajasthan",
+    "location": "Pilani",
+    "festival_type": "Cultural",
+    "first_held": 1971,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "ATMOS",
+    "host_institution": "BITS Pilani, Hyderabad Campus",
+    "state": "Telangana",
+    "location": "Hyderabad",
+    "festival_type": "Technical",
+    "first_held": 2012,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Pearl",
+    "host_institution": "BITS Pilani, Hyderabad Campus",
+    "state": "Telangana",
+    "location": "Hyderabad",
+    "festival_type": "Cultural",
+    "first_held": 2009,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Verba Maximus",
+    "host_institution": "BITS Pilani, Hyderabad Campus",
+    "state": "Telangana",
+    "location": "Hyderabad",
+    "festival_type": "Literary",
+    "first_held": 2011,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Kalakrithi",
+    "host_institution": "Alagappa College of Technology",
+    "state": "Tamil Nadu",
+    "location": "Chennai",
+    "festival_type": "Cultural",
+    "first_held": 1983,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Techofes",
+    "host_institution": "College of Engineering, Guindy",
+    "state": "Tamil Nadu",
+    "location": "Chennai",
+    "festival_type": "Cultural",
+    "first_held": 1948,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Pradharshini",
+    "host_institution": "Kilpauk Medical College",
+    "state": "Tamil Nadu",
+    "location": "Chennai",
+    "festival_type": "Cultural",
+    "first_held": 1978,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Down Sterling",
+    "host_institution": "Loyola College, Chennai",
+    "state": "Tamil Nadu",
+    "location": "Chennai",
+    "festival_type": "Cultural (Defunct)",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Mitafest",
+    "host_institution": "Madras Institute of Technology",
+    "state": "Tamil Nadu",
+    "location": "Chennai",
+    "festival_type": "Cultural",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Milan",
+    "host_institution": "SRM Institute of Science and Technology",
+    "state": "Tamil Nadu",
+    "location": "Kattankulathur",
+    "festival_type": "Cultural",
+    "first_held": 2008,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Riviera",
+    "host_institution": "Vellore Institute of Technology(Vellore campus)",
+    "state": "Tamil Nadu",
+    "location": "Vellore",
+    "festival_type": "Cultural",
+    "first_held": 2002,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Manfest-Varchasva",
+    "host_institution": "Indian Institute of Management Lucknow",
+    "state": "Uttar Pradesh",
+    "location": "Lucknow",
+    "festival_type": "Cultural",
+    "first_held": 1988,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Intaglio",
+    "host_institution": "Indian Institute of Management Calcutta",
+    "state": "West Bengal",
+    "location": "Kolkata",
+    "festival_type": "Business",
+    "first_held": 1989,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Integration",
+    "host_institution": "Indian Statistical Institute",
+    "state": "West Bengal",
+    "location": "Kolkata",
+    "festival_type": "Cultural",
+    "first_held": 2000,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Eutopian Euphorians",
+    "host_institution": "Meghnad Saha Institute of Technology",
+    "state": "West Bengal",
+    "location": "Kolkata",
+    "festival_type": "Cultural",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of festivals in Indian colleges"
+  },
+  {
+    "name": "Rendezvous",
+    "host_institution": "IIT Delhi",
+    "state": "Delhi",
+    "location": "New Delhi",
+    "festival_type": "Cultural",
+    "first_held": 1976,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Tryst",
+    "host_institution": "IIT Delhi",
+    "state": "Delhi",
+    "location": "New Delhi",
+    "festival_type": "Technical",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Mood Indigo",
+    "host_institution": "IIT Bombay",
+    "state": "Maharashtra",
+    "location": "Mumbai",
+    "festival_type": "Cultural",
+    "first_held": 1971,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Techfest",
+    "host_institution": "IIT Bombay",
+    "state": "Maharashtra",
+    "location": "Mumbai",
+    "festival_type": "Technical",
+    "first_held": 1998,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Aavhan",
+    "host_institution": "IIT Bombay",
+    "state": "Maharashtra",
+    "location": "Mumbai",
+    "festival_type": "Sports",
+    "first_held": 2017,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Ignus",
+    "host_institution": "IIT Jodhpur",
+    "state": "Rajasthan",
+    "location": "Jodhpur",
+    "festival_type": "Cultural",
+    "first_held": 2008,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Prometeo",
+    "host_institution": "IIT Jodhpur",
+    "state": "Rajasthan",
+    "location": "Jodhpur",
+    "festival_type": "Technical",
+    "first_held": 2008,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Varchas",
+    "host_institution": "IIT Jodhpur",
+    "state": "Rajasthan",
+    "location": "Jodhpur",
+    "festival_type": "Sports",
+    "first_held": 2008,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Thomso",
+    "host_institution": "IIT Roorkee",
+    "state": "Uttarakhand",
+    "location": "Roorkee",
+    "festival_type": "Cultural",
+    "first_held": 1980,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Cognizance",
+    "host_institution": "IIT Roorkee",
+    "state": "Uttarakhand",
+    "location": "Roorkee",
+    "festival_type": "Technical",
+    "first_held": 2003,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Sangram",
+    "host_institution": "IIT Roorkee",
+    "state": "Uttarakhand",
+    "location": "Roorkee",
+    "festival_type": "Sports",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Kashiyatra",
+    "host_institution": "IIT (BHU) Varanasi",
+    "state": "Uttar Pradesh",
+    "location": "Varanasi",
+    "festival_type": "Cultural",
+    "first_held": 1981,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Technex",
+    "host_institution": "IIT (BHU) Varanasi",
+    "state": "Uttar Pradesh",
+    "location": "Varanasi",
+    "festival_type": "Technical",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Spardha",
+    "host_institution": "IIT (BHU) Varanasi",
+    "state": "Uttar Pradesh",
+    "location": "Varanasi",
+    "festival_type": "Sports",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Alma Fiesta",
+    "host_institution": "IIT Bhubaneswar",
+    "state": "Odisha",
+    "location": "Bhubaneswar",
+    "festival_type": "Cultural",
+    "first_held": 2009,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Wissenaire",
+    "host_institution": "IIT Bhubaneswar",
+    "state": "Odisha",
+    "location": "Bhubaneswar",
+    "festival_type": "Technical",
+    "first_held": 2010,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Ashvamedha",
+    "host_institution": "IIT Bhubaneswar",
+    "state": "Odisha",
+    "location": "Bhubaneswar",
+    "festival_type": "Sports",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Srijan",
+    "host_institution": "IIT (ISM) Dhanbad",
+    "state": "Jharkhand",
+    "location": "Dhanbad",
+    "festival_type": "Cultural",
+    "first_held": 1977,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Concetto",
+    "host_institution": "IIT (ISM) Dhanbad",
+    "state": "Jharkhand",
+    "location": "Dhanbad",
+    "festival_type": "Technical",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Parakram",
+    "host_institution": "IIT (ISM) Dhanbad",
+    "state": "Jharkhand",
+    "location": "Dhanbad",
+    "festival_type": "Sports",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Alcheringa",
+    "host_institution": "IIT Guwahati",
+    "state": "Assam",
+    "location": "Guwahati",
+    "festival_type": "Cultural",
+    "first_held": 1996,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Techniche",
+    "host_institution": "IIT Guwahati",
+    "state": "Assam",
+    "location": "Guwahati",
+    "festival_type": "Technical",
+    "first_held": 1999,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Spirit",
+    "host_institution": "IIT Guwahati",
+    "state": "Assam",
+    "location": "Guwahati",
+    "festival_type": "Sports",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Antaragni",
+    "host_institution": "IIT Kanpur",
+    "state": "Uttar Pradesh",
+    "location": "Kanpur",
+    "festival_type": "Cultural",
+    "first_held": 1966,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Techkriti",
+    "host_institution": "IIT Kanpur",
+    "state": "Uttar Pradesh",
+    "location": "Kanpur",
+    "festival_type": "Technical",
+    "first_held": 1995,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Udghosh",
+    "host_institution": "IIT Kanpur",
+    "state": "Uttar Pradesh",
+    "location": "Kanpur",
+    "festival_type": "Sports",
+    "first_held": 2002,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Spring Fest",
+    "host_institution": "IIT Kharagpur",
+    "state": "West Bengal",
+    "location": "Kharagpur",
+    "festival_type": "Cultural",
+    "first_held": 1960,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Shaurya",
+    "host_institution": "IIT Kharagpur",
+    "state": "West Bengal",
+    "location": "Kharagpur",
+    "festival_type": "Sports",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Saarang",
+    "host_institution": "IIT Madras",
+    "state": "Tamil Nadu",
+    "location": "Chennai",
+    "festival_type": "Cultural",
+    "first_held": 1974,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Shaastra",
+    "host_institution": "IIT Madras",
+    "state": "Tamil Nadu",
+    "location": "Chennai",
+    "festival_type": "Technical",
+    "first_held": 2000,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Exodia",
+    "host_institution": "IIT Mandi",
+    "state": "Himachal Pradesh",
+    "location": "Mandi",
+    "festival_type": "Cultural",
+    "first_held": 2012,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Rann-neeti",
+    "host_institution": "IIT Mandi",
+    "state": "Himachal Pradesh",
+    "location": "Mandi",
+    "festival_type": "Sports",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Anwesha",
+    "host_institution": "IIT Patna",
+    "state": "Bihar",
+    "location": "Patna",
+    "festival_type": "Cultural",
+    "first_held": 2010,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Celesta",
+    "host_institution": "IIT Patna",
+    "state": "Bihar",
+    "location": "Patna",
+    "festival_type": "Technical",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Infinito",
+    "host_institution": "IIT Patna",
+    "state": "Bihar",
+    "location": "Patna",
+    "festival_type": "Sports",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Rebeca",
+    "host_institution": "IIEST Shibpur",
+    "state": "West Bengal",
+    "location": "Kolkata",
+    "festival_type": "Cultural",
+    "first_held": 1932,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Instruo",
+    "host_institution": "IIEST Shibpur",
+    "state": "West Bengal",
+    "location": "Kolkata",
+    "festival_type": "Technical",
+    "first_held": 2009,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Culrav",
+    "host_institution": "MNNIT Allahabad",
+    "state": "Uttar Pradesh",
+    "location": "Allahabad",
+    "festival_type": "Cultural",
+    "first_held": 1986,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Technosearch",
+    "host_institution": "MANIT Bhopal",
+    "state": "Madhya Pradesh",
+    "location": "Bhopal",
+    "festival_type": "Technical",
+    "first_held": 2003,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Ragam",
+    "host_institution": "NIT Calicut",
+    "state": "Kerala",
+    "location": "Kozhikode",
+    "festival_type": "Cultural",
+    "first_held": 1987,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Tathva",
+    "host_institution": "NIT Calicut",
+    "state": "Kerala",
+    "location": "Kozhikode",
+    "festival_type": "Technical",
+    "first_held": null,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Techspardha",
+    "host_institution": "NIT Kurukshetra",
+    "state": "Haryana",
+    "location": "Kurukshetra",
+    "festival_type": "Technical",
+    "first_held": 1995,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Ojass",
+    "host_institution": "NIT Jamshedpur",
+    "state": "Jharkhand",
+    "location": "Jamshedpur",
+    "festival_type": "Technical",
+    "first_held": 2004,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Aarohi",
+    "host_institution": "VNIT Nagpur",
+    "state": "Maharashtra",
+    "location": "Nagpur",
+    "festival_type": "Cultural",
+    "first_held": 1988,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Incident",
+    "host_institution": "NIT Surathkal",
+    "state": "Karnataka",
+    "location": "Surathkal",
+    "festival_type": "Cultural",
+    "first_held": 1980,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Engineer",
+    "host_institution": "NIT Surathkal",
+    "state": "Karnataka",
+    "location": "Surathkal",
+    "festival_type": "Technical",
+    "first_held": 2005,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Festember",
+    "host_institution": "NIT Trichy",
+    "state": "Tamil Nadu",
+    "location": "Trichy",
+    "festival_type": "Cultural",
+    "first_held": 1975,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "Pragyan",
+    "host_institution": "NIT Trichy",
+    "state": "Tamil Nadu",
+    "location": "Trichy",
+    "festival_type": "Technical",
+    "first_held": 2005,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  },
+  {
+    "name": "SpringSpree",
+    "host_institution": "NIT Warangal",
+    "state": "Telangana",
+    "location": "Warangal",
+    "festival_type": "Cultural",
+    "first_held": 1978,
+    "official_website": null,
+    "data_source": "Wikipedia: List of cultural, technical and sports festivals in IITs and NITs"
+  }
+]

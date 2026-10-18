@@ -1,0 +1,14 @@
+{
+  "name": "uniquest",
+  "private": true,
+  "version": "1.0.0",
+  "description": "UniQuest - single entry point to run the client and API together",
+  "scripts": {
+    "dev": "concurrently -n SERVER,CLIENT -c blue,green \"npm:dev:server\" \"npm:dev:client\"",
+    "dev:client": "npm --prefix client run dev",
+    "dev:server": "node scripts/dev-server.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  }
+}
