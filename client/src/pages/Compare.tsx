@@ -97,7 +97,7 @@ export const Compare: React.FC = () => {
           <Button
             variant="ghost"
             size="sm"
-            onClick={() => navigate("/")}
+            onClick={() => navigate("/bootcamps")}
             className="text-xs gap-1.5"
           >
             <ArrowLeft className="w-3.5 h-3.5" />
@@ -180,7 +180,7 @@ export const Compare: React.FC = () => {
           <Button
             variant="outline"
             size="sm"
-            onClick={() => navigate("/")}
+            onClick={() => navigate("/bootcamps")}
             className="text-xs"
           >
             Return to Discovery
@@ -194,7 +194,7 @@ export const Compare: React.FC = () => {
           b1={comparisonData.bootcamps[0]}
           b2={comparisonData.bootcamps[1]}
           comparison={comparisonData.comparison}
-          onBack={() => navigate("/")}
+          onBack={() => navigate("/bootcamps")}
         />
       )}
     </div>

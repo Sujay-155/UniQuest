@@ -8,3 +8,58 @@
     -webkit-font-smoothing: antialiased;
   }
 }
+
+@keyframes aurora-drift-1 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(4%, 6%) scale(1.08); }
+}
+
+@keyframes aurora-drift-2 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(-6%, -4%) scale(1.12); }
+}
+
+.aurora-blob-1 {
+  animation: aurora-drift-1 14s ease-in-out infinite;
+}
+
+.aurora-blob-2 {
+  animation: aurora-drift-2 18s ease-in-out infinite;
+}
+
+/* Breathing glow behind the hero CTA, driven by anime.js via CSS custom properties */
+.aurora-cta {
+  position: relative;
+  isolation: isolate;
+}
+
+.aurora-cta::after {
+  content: "";
+  position: absolute;
+  inset: -3px;
+  z-index: -1;
+  border-radius: inherit;
+  background: radial-gradient(circle, rgba(16, 185, 129, 0.65) 0%, rgba(16, 185, 129, 0) 72%);
+  opacity: var(--glow-opacity, 0.6);
+  transform: scale(var(--glow-scale, 0.8));
+  filter: blur(3px);
+  pointer-events: none;
+}
+
+/* University results grid, reflowed with an anime.js FLIP layout animation on density toggle */
+.uq-cards-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+@media (min-width: 768px) {
+  .uq-cards-grid[data-layout="grid"] {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .uq-cards-grid[data-layout="compact"] {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.75rem;
+  }
+}

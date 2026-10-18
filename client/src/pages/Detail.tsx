@@ -70,7 +70,7 @@ export const Detail: React.FC<DetailProps> = ({ onSelectForCompare }) => {
           Could not find bootcamp details
         </h2>
         <p className="text-xs text-rose-700 dark:text-rose-300">{error || "Requested program does not exist."}</p>
-        <Button variant="outline" size="sm" onClick={() => navigate("/")} className="text-xs">
+        <Button variant="outline" size="sm" onClick={() => navigate("/bootcamps")} className="text-xs">
           Return to Bootcamps Directory
         </Button>
       </div>
@@ -81,7 +81,7 @@ export const Detail: React.FC<DetailProps> = ({ onSelectForCompare }) => {
     <div className="max-w-5xl mx-auto space-y-8 pb-16">
       {/* Back link */}
       <button
-        onClick={() => navigate("/")}
+        onClick={() => navigate("/bootcamps")}
         className="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-600 hover:text-emerald-600 transition-colors"
       >
         <ArrowLeft className="w-4 h-4" />
@@ -165,7 +165,7 @@ export const Detail: React.FC<DetailProps> = ({ onSelectForCompare }) => {
               size="sm"
               onClick={() => {
                 onSelectForCompare(bootcamp);
-                navigate("/");
+                navigate("/bootcamps");
               }}
               className="w-full text-xs font-semibold gap-1.5"
             >
